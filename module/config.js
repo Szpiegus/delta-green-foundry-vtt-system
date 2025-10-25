@@ -11,10 +11,9 @@ const DG = /** @type {const} */ ({
   // All the base skills
   skills: [
     "accounting",
-    "alertness",
+    "spot_hidden",
     "anthropology",
     "archeology",
-    "artillery",
     "athletics",
     "bureaucracy",
     "computer_science",
